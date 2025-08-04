@@ -6,7 +6,7 @@ export AWS_SECRET_ACCESS_KEY="wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
 export AWS_REGION="us-west-2"
 
 #  Bucket name (/F/A/K/E bucket )
-BUCKET_NAME="fake-bucket-for-testing"
+BUCKET_NAME="rbinternational.com"
 
 # Temporary directory to store files
 TEMP_DIR="./temp_files"
@@ -48,4 +48,4 @@ rm -rf $TEMP_DIR
 
 echo "Script execution complete."
 
-#Very secret things happening for Raiffeisenbank
+#Very secret things happening for Raiffeisenbank raiffeisen.at
